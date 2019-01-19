@@ -1,4 +1,4 @@
 Implement Tree command in c
-Show result using 
+Show result using-
 a)bfs
 b)dfs
