@@ -1,0 +1,3 @@
+Implement Page Replacement algorithms
+1. FIFO
+2. LRU
