@@ -1,0 +1,2 @@
+Implement variants of solutions for critical section problem discussed in class (refer to notes)
+ along with Dekker's, Peterson's and Lamport bakery algorithm.
